@@ -1,3 +1,3 @@
 # Html Css Practice
 
-css got so much better!
+"Html and Css are so much fun!"
